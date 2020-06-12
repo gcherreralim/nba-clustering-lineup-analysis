@@ -6,4 +6,4 @@ In the modern-day NBA, positions don't define the play styles, skillsets, and te
 
 By using relevant per-100 numbers, advanced statistics, and tendency metrics, we were able to use model-based clustering and random forest models to identify more appropriate player groups and note which combinations of these groups performed best together in five-player lineups. To further demonstrate how these clusters could help in front office decision-making, we calculated a Comparison Index based on player relative value (FiveThirtyEight's RAPTOR metric) and salary situation compared with a certain team's weakest link within their most used lineup. Further development on this end is being done, and a Shiny app is currently being created to support decision making for all 30 NBA teams. This project was inspired by previous studies done by Samuel Kalman, Jonathan Bosch, and Alex Cheng.
 
-For more, read our full report at:
+For more, read our full report at: gcherreralim.com/docu/nba-cluster-report
